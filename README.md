@@ -23,8 +23,7 @@ El objetivo del proyecto es demostrar la implementación de algoritmos de toma d
 
 ## 📸 Vista previa
 
-> 📌 Agrega aquí capturas de tu juego
-
+https://github.com/user-attachments/assets/8376b8c5-38ae-4810-b295-7fc8d602f1c9https://github.com/user-attachments/assets/8376b8c5-38ae-4810-b295-7fc8d602f1c9
 
 ---
 
