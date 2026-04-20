@@ -40,6 +40,12 @@ El juego utiliza el algoritmo **Minimax**, el cual permite a la IA:
 
 ---
 
+## 🧩 Lógica del juego
+
+<img width="620" height="1764" alt="Image" align=center src="https://github.com/user-attachments/assets/f6d045c6-7174-42e4-a7a1-18cbe6da0fbf" />
+
+---
+
 ## 🚀 Tecnologías utilizadas
 
 - C#
@@ -57,5 +63,29 @@ El juego utiliza el algoritmo **Minimax**, el cual permite a la IA:
 - ⚡ Respuesta inmediata de la IA  
 
 ---
+
+## 📈 Posibles mejoras
+- 🤖 Implementar niveles de dificultad (Minimax con poda Alpha-Beta)
+- 🎨 Mejorar la interfaz gráfica
+- 🔊 Agregar efectos de sonido
+- 🌐 Convertir a versión web
+
+---
+
+## 🔹 Requisitos
+- Visual Studio
+- .NET Framework
+
+---
+## Instalación
+1. Clonar el repositorio:
+```bash
+git clone https://github.com/urlcm/gatogame.git
+```
+3. Abrir la solución en Visual Studio
+4. Ejecutar el proyecto:
+```bash
+F5
+```
 
 
