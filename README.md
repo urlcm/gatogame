@@ -1,9 +1,3 @@
-
-# Juego del Gato (3 en Raya)
-
-Juego creado desde cero en C# Windows Forms aplicando el algoritmo de inteligencia artificial minimax
-
-
 # 🎮 Juego del Gato (3 en Raya) con IA - Minimax
 
 <p align="center">
