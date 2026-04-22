@@ -19,6 +19,8 @@ Aplicación de escritorio que implementa el clásico juego del **Gato (Tres en R
 
 El objetivo del proyecto es demostrar la implementación de algoritmos de toma de decisiones en juegos, garantizando que la IA juegue de manera óptima.
 
+> 💡 Este fue un proyecto previo en mi aprendizaje de C# y .NET. Mi proyecto más reciente — una [Plataforma de Lógica de Programación con IA](https://github.com/urlcm/plataforma-logica-de-programacion) usando Java, Spring Boot, Angular y Docker o [La aplicaciion del hospital Christus](https://github.com/urlcm/visualizador-de-datos) usando C# Windows Forms, SQL Server, websockets — refleja mi stack actual.
+
 ---
 
 ## 📸 Vista previa
